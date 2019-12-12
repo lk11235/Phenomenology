@@ -4,3 +4,6 @@
 [submodule "AxionSuperradianceDM"]
 	path = AxionSuperradianceDM
 	url = https://github.com/lk11235/AxionSuperradianceDM.git
+[submodule "NeutrinoPeV"]
+	path = NeutrinoPeV
+	url = https://github.com/lk11235/NeutrinoPeV.git
